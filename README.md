@@ -1,4 +1,8 @@
-### Hi there 👋
+### cryptex
+Title: Fudge Master
+
+It is not much, one that is a master of fudge, has to say.
+But how one says it.
 
 <!--
 **fudgemastercryptex/fudgemastercryptex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
