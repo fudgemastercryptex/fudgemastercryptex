@@ -1,4 +1,4 @@
-### cryptex
+### _special cryptex special_
 Title: Fudge Master
 
 It is not much, one that is a master of fudge, has to say.
